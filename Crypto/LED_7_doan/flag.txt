@@ -1,0 +1,1 @@
+miniCTF{7-segment_display_is_fun}

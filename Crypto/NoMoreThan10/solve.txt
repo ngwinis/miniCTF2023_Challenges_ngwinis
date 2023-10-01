@@ -1,0 +1,3 @@
+Để giải bài này, trước tiên ta nhặt ra toàn bộ các chữ cái đưa vào 1 mảng rồi dựa vào tập các số đã cho ở phần description và bảng chữ cái:
+- Đối với các chữ cái viết thường, ta dựa vào bảng chữ cái thường, tương ứng số lần xoay vòng đã cho. Ví dụ chữ cái 'c' với số lần xoay vòng 1 thì chữ cái đó ban đầu là chữ 'm' vì chữ 'k' ở vị trí 10 đã quay về kí tự đầu tiên là 'a', chữ 'm' ở vị trí 12 tương ứng sẽ là chữ 'c'
+- Đối với các chữ cái viết hoa, ta làm tương tự chỉ đổi sang bảng chữ cái hoa. Ví dụ, chữ 'E' có số lần xoay vòng là 2 tương ứng sẽ là chữ 'Y'

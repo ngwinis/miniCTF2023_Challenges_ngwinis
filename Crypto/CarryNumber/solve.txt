@@ -1,0 +1,1 @@
+Mỗi chữ số của số n1 lần lượt cộng với từng chữ số của số n2 sẽ ra số nhớ. Ví dụ 1+5=6 (nhớ 0) thì số nhớ là 0, 5+7=2 (nhớ 1) thì số nhớ là 1. Cộng lần lượt theo thứ tự từ phải sang trái sẽ ra xâu nhị phân, lấy xâu nhị phân đó ném vào tool kt.gy sẽ ra flag

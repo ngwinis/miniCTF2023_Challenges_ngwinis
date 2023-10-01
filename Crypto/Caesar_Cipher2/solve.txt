@@ -1,0 +1,1 @@
+Vẫn dùng tool dcode.fr với mã Caesar, key = 10 nhưng chọn Use a custom alphabet (A-Z0-9 chars only) và paste xâu sau để decrypt: "01245689ACDEGHIKLMOPQSTUWXYZ" (xâu này thiếu 1 vài số và 1 vài chữ cái)
