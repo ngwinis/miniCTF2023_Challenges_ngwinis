@@ -1,0 +1,3 @@
+ciniCTF{C4n_E0u_Wh1t3_Me_C0rh3ct_C3ss493?}
+
+Tôi chỉ mới học bảng chữ cái viết hoa và viết thường. Ai đó đã thêm những kí tự lạ vào đoạn tin nhắn của tôi. Hơn nữa, tôi đã cố gắng viết chữ có thứ tự trong bảng chữ cái lớn hơn 10 nhưng nó luôn lặp lại 1 trong 10 chữ cái đầu (xoay vòng 10 kí tự đầu trong bảng chữ cái). Bạn có thể sửa những chữ cái bị sai giúp tôi không? Những chữ cái tôi viết sai là ở vị trí chia hết cho 3. Những vị trí có kí tự chữ cái lần lượt có số lần xoay vòng là {1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 2, 0, 0, 1, 0, 0, 1, 0, 0}
